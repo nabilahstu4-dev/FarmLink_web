@@ -13,3 +13,7 @@ ord fields, including validation and error handling.
 This task involves implementing features for bulk purchase and bargaining for agents.
 **Status: In Progress**
 
+## T-10: Customer Purchase System
+Implements the Customer Purchase System — customers can place orders, make payments, and track orders. (T-10)
+**Status: In Progress**
+
